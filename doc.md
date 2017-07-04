@@ -7,7 +7,7 @@
 
 **2.** Após cliente identificado/cadastrado, na segunda tela ele informa o código recebido por SMS;
 
-**3.**Depois de fazer o passo 1 e 2 o telefone e o HASH de senha serão devolvidos para que nos próximos acessos o cliente seja autenticado automaticamente.
+**3.** Depois de fazer o passo 1 e 2 o telefone e o HASH de senha serão devolvidos para que nos próximos acessos o cliente seja autenticado automaticamente.
 
 ###### POST:
     https://sac.superagendador.com/api/1.1/buscaloginclient.php
