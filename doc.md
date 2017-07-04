@@ -142,7 +142,7 @@ https://sac.superagendador.com/api/1.1/buscaagendamento.php
 
     option: com_consultas
     task: listjson
-    username: 11999118225
+    username: 119999-99999
     password: d2508279b202354dc2aa857f7e1f5b9b
     id: 907
     base: julianot
@@ -176,7 +176,7 @@ https://sac.superagendador.com/api/1.1/buscaagendamento.php
 
     option: com_consultas
     task: savemobile
-    username: (11) 9991-18225
+    username: (11) 9999-99999
     password: d2508279b202354dc2aa857f7e1f5b9b
     id_servico: 20
     id_responsavel: 12
@@ -219,7 +219,7 @@ https://sac.superagendador.com/api/1.1/buscaagendamento.php
 
     option: com_consultas
     task: updatestatus
-    username: (11) 9991-18225
+    username: (11) 9999-99999
     password: d2508279b202354dc2aa857f7e1f5b9b
     id: 907
     status: 2     (2 = Confirmar e 7 = Cancelar)
