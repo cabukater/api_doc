@@ -21,8 +21,7 @@ Content-Type: application/x-www-form-urlencoded
 ###### PARAMS:
 
     telefone  (telefone com DDD somente números, sempre salvar numa localStorage)
-    nome    (NOVO caso precise cadastrar)
-    email    (NOVO caso precise cadastrar)
+   
 ###### RETURN:
 
 
@@ -60,7 +59,7 @@ deviceid	(deviceid capturado pelo APP)
 ##### Passo 3 - Verifica se o cliente já está logado e se password ainda é válido:
 ###### PARAMS:
 ```javascript
-telefone: 11999118225
+telefone: 11999999999
 password: HASH_AUTH_CLIENTE
  
 ```
