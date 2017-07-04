@@ -91,8 +91,17 @@ https://sac.superagendador.com/api/1.1/gatewayclient.php
     Authentication: Basic HASH_ADMIN_API
     Content-Type: application/x-www-form-urlencoded
     
+###### PARAMS:
 
-
+        telephone: 11 9999-99999,
+        name: nome,
+        email: email,
+        descricao: descricao,
+        task: "signin",
+        option: "com_consultas",
+        haveaccount: "no",
+        phone: 11 9999-99999,
+        password: (hash de autenticação salvo na localStorage após validação via SMS)
 
 
 #### B - LISTA DE AGENDAMENTOS
