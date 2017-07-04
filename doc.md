@@ -74,6 +74,27 @@ password: HASH_AUTH_CLIENTE
 
 ------------
 
+
+#### CADASTRO DE CLIENTES
+###### Fluxo:
+
+**1.** Ao validar o acesso caso o cliente não seja cadsatrado o sistema solicita um cadastro; 
+
+
+###### POST:
+```javascript
+https://sac.superagendador.com/api/1.1/gatewayclient.php
+```
+###### HEADERS:
+
+
+    Authentication: Basic HASH_ADMIN_API
+    Content-Type: application/x-www-form-urlencoded
+    
+
+
+
+
 #### B - LISTA DE AGENDAMENTOS
 ###### Fluxo:
 
